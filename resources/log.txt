@@ -1,0 +1,9 @@
+11:37:11.666 [main] INFO  Logi.Log - hi
+11:37:11.670 [main] ERROR Logi.Log - bad
+11:37:11.670 [main] WARN  Logi.Log - warn
+11:46:22.915 [main] INFO  Logi.Log - hi
+11:46:22.920 [main] ERROR Logi.Log - bad
+11:46:22.920 [main] WARN  Logi.Log - warn
+11:47:26.499 [main] INFO  Logi.Log - hi
+11:47:26.504 [main] ERROR Logi.Log - bad
+11:47:26.504 [main] WARN  Logi.Log - warn
